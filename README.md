@@ -4,7 +4,7 @@
   <strong>Play with your friends!</strong>
 </div>
 <br>
-<p align="center">
+<p align="center"> 
   
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4e065c22-cbbd-4f50-9d6d-470fc1731e81/deploy-status)](https://app.netlify.com/sites/tic-tac-toe-fin/deploys)
 
